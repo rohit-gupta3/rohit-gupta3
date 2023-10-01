@@ -5,8 +5,8 @@ I'm a **developer** with a demonstrated ability to deliver solutions to real-wor
 
 
 
-[![GitHub Follow](https://img.shields.io/github/followers/rohit?label=Follow&style=social)](https://github.com/rohit-gupta3)
-[![Linkedin:Rohit ](https://img.shields.io/badge/-rohit-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasoonsoni/)](https://www.linkedin.com/in/rohitkumargupta3/)
+[![GitHub Follow](https://img.shields.io/github/followers/rohit-gupta3?label=Follow&style=social)](https://github.com/rohit-gupta3)
+[![Linkedin:Rohit ](https://img.shields.io/badge/-Rohit-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohitkumargupta3/)](https://www.linkedin.com/in/rohitkumargupta3/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ROHIT-KUMAR-GUPTA/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rohit_gupta2580)
 [![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rohit_gupta3)
