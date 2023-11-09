@@ -54,5 +54,3 @@ I'm a **developer** with a demonstrated ability to deliver solutions to real-wor
 
 
 <hr/>
-![(https://github.com/rohit-gupta3/rohit-gupta3/assets/82712515/4a83bb63-bba0-42bd-97e0-4a4ca5f0a697)]
-(https://holopin.me/rohitgupta3)
