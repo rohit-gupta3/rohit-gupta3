@@ -54,4 +54,4 @@ I'm a **developer** with a demonstrated ability to deliver solutions to real-wor
 
 
 <hr/>
-[![An image of @rohitgupta3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitgupta3)](https://holopin.io/@rohitgupta3)
+[(https://holopin.me/rohitgupta3)]
